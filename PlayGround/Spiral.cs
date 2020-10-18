@@ -4,7 +4,7 @@ namespace PlayGround
 {
     class Spiral
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Enter dimension: ");
             var dim = Console.ReadLine();
