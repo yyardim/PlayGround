@@ -1,0 +1,13 @@
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.exe
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.deps.json
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.runtimeconfig.json
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.runtimeconfig.dev.json
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.dll
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\bin\Debug\netcoreapp3.1\PlayGround.pdb
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.csprojAssemblyReference.cache
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.AssemblyInfoInputs.cache
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.AssemblyInfo.cs
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.dll
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.pdb
+C:\Users\yyard\gitRepo\PlayGround\PlayGround\obj\Debug\netcoreapp3.1\PlayGround.genruntimeconfig.cache
